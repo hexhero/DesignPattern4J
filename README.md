@@ -3,11 +3,11 @@
 
 ## 内容目录
 ### 行为型模式:
-- [x] [中介者模式](src/mediator/pattern/MediatorPattern.java)
-- [x] [观察者模式](src/observer/pattern/ObserverPattern.java)
-- [x] [状态模式](src/state/pattern/StatePattern.java)
-- [x] [策略模式](src/strategy/pattern/StrategyPattern.java)
-- [ ] 命令模式
+- [x] [中介者模式](src/pattern/mediator/MediatorPattern.java)
+- [x] [观察者模式](src/pattern/observer/ObserverPattern.java)
+- [x] [状态模式](src/pattern/state/StatePattern.java)
+- [x] [策略模式](src/pattern/strategy/StrategyPattern.java)
+- [x] [命令模式](src/pattern/command/CommandPattern.java)
 
 ### 结构型模式
 - [ ] 适配器模式

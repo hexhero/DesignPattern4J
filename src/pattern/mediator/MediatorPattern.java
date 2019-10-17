@@ -1,4 +1,4 @@
-package mediator.pattern;
+package pattern.mediator;
 
 import java.util.Map;
 import java.util.TreeMap;
