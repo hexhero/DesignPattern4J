@@ -1,5 +1,7 @@
 # 常用设计模式的java实现
-常用设计模式的java实现
+常用设计模式的java实现 :construction:
+
+配套文档：<https://yangb92.gitee.io/book/DesignPatterns>
 
 ## 行为型模式:
 
@@ -11,7 +13,7 @@
 
 ## 结构型模式
 
-- [ ] 适配器模式
+- [x] [适配器模式](src/pattern/adapter/AdapterPattern.java)
 - [ ] 桥接模式
 - [ ] 装饰模式
 - [ ] 外观模式
