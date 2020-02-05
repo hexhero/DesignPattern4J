@@ -14,7 +14,7 @@
 ## 结构型模式
 
 - [x] [适配器模式](src/pattern/adapter/AdapterPattern.java)
-- [ ] 桥接模式
+- [x] [桥接模式](src/pattern/bridge/BridgePattern.java)
 - [ ] 装饰模式
 - [ ] 外观模式
 - [ ] 享元模式
