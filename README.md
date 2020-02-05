@@ -1,6 +1,6 @@
-# 常用设计模式的java实现
-常用设计模式的java实现 :construction:
+# 常用设计模式的java实现:construction:
 
+常用设计模式的java实现 
 配套文档：<https://yangb92.gitee.io/book/DesignPatterns>
 
 ## 行为型模式:
